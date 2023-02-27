@@ -1,1 +1,4 @@
-
+git add alert.png
+git commit -m 'add png file'
+git remote add origin https://user-images.githubusercontent.com/126037241/221530950-5be0c19a-646e-4593-bde1-979c6bb7e579.png
+git push -u origin master
